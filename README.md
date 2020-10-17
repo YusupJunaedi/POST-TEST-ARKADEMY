@@ -21,7 +21,7 @@ Bach : 17.1
 
 5. ```sql
    SELECT nama FROM users where nama = "ARKADEMY"
-```
+   ```
 
 6. Authentication => sebuah proses yang di lakukan untuk membuktikan identitas seorang users
    Authorization => sebuah proses untuk menentukan user dapat mengakses halaman tertentu
