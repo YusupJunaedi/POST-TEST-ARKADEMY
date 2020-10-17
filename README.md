@@ -19,8 +19,7 @@ Bach : 17.1
    PATCH => digunakan untuk mengubah data pada server
    DELETE => digunakan untuk menghapus data pada server
 
-5. 
-```sql
+5. ```sql
    SELECT nama FROM users where nama = "ARKADEMY"
 ```
 
