@@ -10,7 +10,9 @@ Bach : 17.1
 
 1.  Library adalah sekumpulan code yang di buat oleh orang lain atau tim, sehingga kita dapat menggunakanya tanpa harus membuat nya dari awal. Framework adalah sekumpulan dari library - library yang kita butuh kan untuk membuat sebuah program atau aplikasi.
 
-2. 
+2. Working directory => direktori folder tempat project kita berada. 
+   Staging area => sebuah file, biasanya berada pada Git directory. File ini akan menyimpan informasi mengenai data mana saja yang akan masuk kedalam commit berikutnya. File ini    biasanya disebut “index”, tapi biasa juga disebut staging area.
+   HEAD => berfungsi sebagai penunjuk ke branch yang kita inginkan.
 
 3. pertama - tama kita pilih program yang mau kita update ke repository dengan perintah git add lalu kita beri nama perubahan yang kita lakukan dengan perintah git commit -m "nama commit" lalu kita update perubahan dengan perintah git push 
 
@@ -34,9 +36,9 @@ Bach : 17.1
 
 10. Redux adalah suatu library untuk manajemen state sehingga kita dapat mengakses state secara global
 
-11.
+11. Microservices adalah cara mengembangkan dan menyusun sistem perangkat lunak seperti mereka dibangun dari komponen   independen kecil yang berinteraksi satu sama lain melalui     jaringan.
 
-12.
+12. content type adalah jenis data yang dikirim ke server.
 
 13. CDN adalah sebuah kumpulan dari server global yang terletak di beberapa data center di berbagai negara, manfaat nya adalah mempercepat loading website. Agar pengiriman konten statis seperti gambar, JavaScript, CSS, video, dan yang lainnya dari lokasi server terdekat ke pengguna pengakses website bisa lancar.
 
