@@ -10,11 +10,7 @@ Bach : 17.1
 
 1.  Library adalah sekumpulan code yang di buat oleh orang lain atau tim, sehingga kita dapat menggunakanya tanpa harus membuat nya dari awal. Framework adalah sekumpulan dari library - library yang kita butuh kan untuk membuat sebuah program atau aplikasi.
 
-2. Working directory => direktori folder tempat project kita berada.
-
-Staging area => sebuah file, biasanya berada pada Git directory. File ini akan menyimpan informasi mengenai data mana saja yang akan masuk kedalam commit berikutnya. File ini biasanya disebut “index”, tapi biasa juga disebut staging area.
-
-HEAD => berfungsi sebagai penunjuk ke branch yang kita inginkan.
+2. Working directory adalah direktori folder tempat project kita berada.Staging area adalah sebuah file, biasanya berada pada Git directory. File ini akan menyimpan informasi mengenai data mana saja yang akan masuk kedalam commit berikutnya. File ini biasanya disebut “index”, tapi biasa juga disebut staging area.HEAD berfungsi sebagai penunjuk ke branch yang kita inginkan.
 
 3. pertama - tama kita pilih program yang mau kita update ke repository dengan perintah git add lalu kita beri nama perubahan yang kita lakukan dengan perintah git commit -m "nama commit" lalu kita update perubahan dengan perintah git push 
 
