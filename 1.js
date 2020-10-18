@@ -1,4 +1,4 @@
-const alphSort = (data) => {
+const alphaSort = (data) => {
   let end = false;
 
   while (!end) {
@@ -15,4 +15,4 @@ const alphSort = (data) => {
   return data;
 };
 
-console.log(alphSort(["z", "d", "a", "b"]));
+console.log(alphaSort(["z", "d", "a", "b"]));
